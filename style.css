@@ -1,0 +1,18 @@
+body {
+    background: lightblue;
+    font-family: Arial;
+    padding: 15px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+}
+
+img {
+    border-radius: 8px;
+}
