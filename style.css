@@ -1,7 +1,8 @@
 body {
-    background: lightblue;
+
+    background-color: black;
+    color: white;
     font-family: Arial;
-    padding: 15px;
 }
 
 h1 {
