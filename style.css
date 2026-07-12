@@ -1,26 +1,6 @@
-body {
-
-    background-color: black;
-    color: white;
-    font-family: Arial;
-}
-img {
-    width: 250px;
-    display: block;
-    margin: 15px auto;
-    border: 3px solid red;
-    border-radius: 10px;
-}
-
-h1 {
-    color: red;
-    text-align: center;
-}
-
-h3 {
-    color: black;
-}
-
-img {
-    border-radius: 8px;
-}
+body { background: black; 
+      color: white; 
+      text-align: center; 
+     }
+h1 { color: red; }
+img { width: 150px; }
