@@ -1,6 +1,10 @@
-body { background: light grey; 
-      color: white; 
-      text-align: center; 
+body { background: black;
+      color: white;
+      text-align: center;
      }
-h1 { color: red; }
-img { width: 150px; }
+h1 {
+      color: red;
+}
+img { 
+      width: 150px;
+}
